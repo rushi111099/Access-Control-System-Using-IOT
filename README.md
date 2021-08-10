@@ -1,3 +1,3 @@
-# water-level-indicator-controller-using-GSM-module.
-Domain:- agriculture purpose   
-water level monitoring system with an integration of GSM module to alert the person in-charge through short message service(sms).the water level is monitored and its data sent through SMS to the intended technician mobile's phones upon reaching the criteria level
+# Access Control System Using IOT:-
+Domain:- IOT  
+•	To create an automated system for better public transport in COVID-19 by detecting the temperature and then allowing access to the passengers. Also counting the number of passengers coming. The automatic sanitization is also provide in this system.
